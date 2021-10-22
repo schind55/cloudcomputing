@@ -1,1 +1,2 @@
 security.provider.10=org.bouncycastle.jce.provider.BouncyCastleProvider
+jdk.tls.disabledAlgorithms=
